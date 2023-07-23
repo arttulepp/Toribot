@@ -7,4 +7,4 @@ Tori.fi urlit muodossa https://www.tori.fi/koko_suomi/tietokoneet_ja_lisalaittee
 
 Komennoilla !add, !mylistings, ja !remove pystyy hallinnoimaan omia tori.fi 
 
-![image](https://github.com/arttulepp/Toribot/assets/140317200/a92f5479-98df-4d8b-8f70-c5e15334eb85)
+![image](https://github.com/arttulepp/Toribot/assets/140317200/e25b7014-b809-4ce9-8bbf-a847e4c3096c)
